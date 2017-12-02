@@ -1,3 +1,4 @@
+/*hi*/
 import {
   AppRegistry,
 } from 'react-native';
